@@ -10,5 +10,5 @@ Criação de um clone do App GitHub com os seguintes requisitos:
 <img src = https://raw.githubusercontent.com/rodrigodevcosta/app-github-clone/main/assets/login.jpeg>
 <img src = https://raw.githubusercontent.com/rodrigodevcosta/app-github-clone/main/assets/home.jpeg>
 <img src = https://raw.githubusercontent.com/rodrigodevcosta/app-github-clone/main/assets/notificacao.jpeg>
-<img src = https://raw.githubusercontent.com/rodrigodevcosta/app-github-clone/main/assets/explorar.jpeg
-<img src = https://raw.githubusercontent.com/rodrigodevcosta/app-github-clone/main/assets/perfil.jpeg
+<img src = https://raw.githubusercontent.com/rodrigodevcosta/app-github-clone/main/assets/explorar.jpeg>
+<img src = https://raw.githubusercontent.com/rodrigodevcosta/app-github-clone/main/assets/perfil.jpeg>
